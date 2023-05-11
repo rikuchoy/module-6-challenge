@@ -21,4 +21,4 @@ THEN I am again presented with current and future conditions for that city
 ![example screenshot](assets/weatherdashboard.png)
 
 ## Link to Page
-[Click to view page](https://rikuchoy.github.io/week-5-challenge/)
+[Click to view page](https://rikuchoy.github.io/week-6-challenge/)
